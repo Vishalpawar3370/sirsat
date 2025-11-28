@@ -199,7 +199,7 @@ const VotingTable = () => {
         <tbody>
           <tr className="fw-bold bg-info bg-opacity-50">
             <td colSpan={4} style={{ fontSize: "12px", color: "red" }}>
-              प्रभाग क्र.३ (२) सर्वसाधारण नगरसेवक पदाचे उमेदवार
+              प्रभाग क्र.२ (ब) सर्वसाधारण नगरसेवक पदाचे उमेदवार
             </td>
           </tr>
 
